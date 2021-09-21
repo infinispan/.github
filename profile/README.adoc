@@ -8,15 +8,13 @@ endif::[]
 :hide-uri-scheme:
 :figure-caption!:
 
-# Welcome to Infinispan
+Welcome to the Infinispan GitHub Organization! 
 
 ++++
 <p align="center">
-  <img src="https://design.jboss.org/infinispan/logo/final/PNG/infinispan_logo_rgb_lightbluewhite_darkblue_600px.png">
+  <img src="https://design.jboss.org/infinispan/logo/final/PNG/infinispan_logotype_rgb_lightblue_450px.png">
 </p>
 ++++
-
-Welcome to the Infinispan GitHub Organization! 
 
 In here you can find our https://github.com/infinispan/infinispan[main repository].
 
