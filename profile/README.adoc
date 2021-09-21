@@ -16,6 +16,6 @@ Welcome to the Infinispan GitHub Organization!
 </p>
 ++++
 
-In here you can find our https://github.com/infinispan/infinispan[main repository].
+You can find our https://github.com/infinispan/infinispan[main repository here].
 
-If you are looking to get started with Infinispan check out our https://infinispan.org/get-started/[5 minutes get started] and the main https://infinispan.org/tutorials/[documentation tutorials].
+To get started, try https://infinispan.org/get-started/[getting started with Infinispan in under 5 minutes] and the https://infinispan.org/tutorials/[Infinispan tutorials].
